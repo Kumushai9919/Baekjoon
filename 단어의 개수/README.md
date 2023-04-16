@@ -1,4 +1,7 @@
-# 단어의 개수 
+# 단어의 개수 1152
+
+<img width="1208" alt="Screenshot 2023-04-16 at 9 28 43 PM" src="https://user-images.githubusercontent.com/83897840/232309960-a6b34101-7f7a-42c1-b0b7-cb8145badde1.png">
+
 
 #### 자바 풀이 방법:
 ````
